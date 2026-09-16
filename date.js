@@ -13,6 +13,3 @@ console.log("Hours:", date.getHours());
 console.log("Minutes:", date.getMinutes());
 
 console.log("Seconds:", date.getSeconds());
-
-
-    
